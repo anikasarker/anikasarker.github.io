@@ -2,7 +2,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .banner-container{
-    background-color: #A6C9E7;
+    background-color: #AABED6;
 }
 .banner-column{
     background-color:#A1ABB3;
@@ -12,5 +12,41 @@ body{
     background-color: #010101;
 }
 .about-container{
-    background-color: #52CACB;
+    background-color: #EFDCD5;
+}
+.education-container{
+    background-color: #AABED6;
+    color: black;
+}
+.circle{
+    background-color: indianred ;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    color: aliceblue;
+}
+.projects-container{
+    background-color: #EFDCD5;
+}
+.gallery-container{
+    background-color: #AABED6;
+}
+.contact-container{
+    background-color: #EFDCD5;
+    color: #EFDCD5;
+}
+.projects-container img{
+    height: 250px;
+    width: 350px;
+}
+.gallery-container img{
+    height: 200px;
+    width: 250px;
+}
+.container{
+    color: #010101;
+}
+.nav-item:hover{
+background-color: darkcyan;
+color: black;
 }
